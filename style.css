@@ -1,0 +1,122 @@
+* {
+  box-sizing: border-box;
+}
+
+main {
+  width: 1920px;
+  height: 1000px;
+
+}
+
+h1 {
+  color: rgb(145, 48, 184);
+  font-size: xx-large;
+  font-weight: bold;
+
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.eliksirOrderedList {
+  list-style: decimal;
+  font-weight: bold;
+  font-size: x-large;
+
+  list-style-position: inside;
+
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  
+  width: 92%;
+
+  line-height: 40px;
+}
+
+
+
+
+.firstExample {
+  margin: 5% 5%;
+  width: 50%;
+  height: 50%;
+}
+
+.eliksirUnorderedList {
+  list-style-image: url("image/album.png");
+  line-height: 30px;
+  list-style-position: inside;
+
+  margin-left: 60px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.eliksirUnorderedList > li:nth-child(1) {
+  color: red;
+  font-style: italic;
+  font-weight: normal;
+}
+
+.eliksirUnorderedList > li:nth-child(2) {
+  color: blue;
+  font-style: italic;
+  font-weight: normal;
+}
+
+.eliksirUnorderedList > li:nth-child(3) {
+  color: rgb(27, 158, 27);
+  font-style: italic;
+  font-weight: normal;
+}
+
+#meshat {
+  font-style: italic;
+  font-weight: normal;
+}
+
+#perelitInBottle {
+  text-decoration: underline;
+  color: red;
+  font-style: italic;
+  font-weight: normal;
+}
+
+#neMorochitGolovu {
+  font-size: xx-large;
+  color: red;
+}
+
+#lastSign {
+  color: blue;
+  font-size: xx-large;
+}
+
+
+.radugaColors
+{
+   
+    width: 30%;
+      margin-top: 80px;
+}
+
+
+.radugaUnordList
+{
+    list-style: square;
+    line-height: 20px;
+    list-style-position: inside;
+    padding-left: 20px;
+    padding-top: 20px;
+
+  
+    font-weight: bold;
+
+   
+}
+
+h2
+{
+    font-size: xx-large;
+    font-weight: bold;
+}
+

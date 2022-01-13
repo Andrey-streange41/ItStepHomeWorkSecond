@@ -1,0 +1,78 @@
+.searchSystemTask
+{
+    width: 35%;
+    height:80%;
+    background-color: rgba(188, 209, 248, 0.712);
+   
+}
+
+.firstRow
+{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.innerBlock
+{
+    background-color: cornsilk;
+    width: 80%;
+    height: 100%;
+
+    margin-left:10%;
+    color: black;
+    text-align: center;
+}
+
+
+.brousersOL
+{
+    list-style:upper-roman;
+
+   
+    text-align: left;
+    font-weight: bold;
+    font-size: x-large;
+    color: rgb(180, 27, 27);
+    text-decoration: underline;
+    margin-left: 15%;
+    margin-top: 20px;
+}
+
+
+.googleUL
+{
+    font-size: large;
+    line-height: 20px;
+    margin-left: 45px;
+    list-style-image: url(image/star\(1\).png);
+    color: orange;
+}
+
+.yandexUL
+{
+    font-size: large;
+    line-height: 20px;
+    margin-left: 45px;
+    list-style-image: url(image/check-bold.png);
+    color: green;
+}
+
+.webaltaUL
+{
+    font-size: large;
+    line-height: 20px;
+    margin-left: 45px;
+    list-style-image: url(image/snowflake-variant.png);
+    color: blue
+}
+
+
+.imagesOL
+{
+    font-size: normal;
+    color: rgb(180, 27, 27);
+    text-decoration: underline;
+    font-style: italic;
+    margin-left: 45px;
+    list-style: lower-latin;
+}

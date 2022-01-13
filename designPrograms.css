@@ -1,0 +1,97 @@
+.designPrograms
+{
+  
+    margin:5% 5%;
+    width: 40%;
+}
+
+
+.designProgramsOl
+{
+     list-style:upper-roman;
+     list-style-position: inside;
+     border: solid black 1px;
+     line-height: 70px;
+     margin-left: 45px;
+     padding-left: 30px;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     font-weight: bold;
+
+}
+
+.designProgramsOl>li:first-child
+{
+    color: red;
+}
+
+.designProgramsOl>li:nth-child(2)
+{
+    color: orange;
+}
+
+.designProgramsOl>li:nth-child(3)
+{
+    color: rgb(117, 216, 255);
+}
+
+.designProgramsOl>li:nth-child(4)
+{
+    color: green;
+}
+
+.designProgramsOl>li:nth-child(4)
+{
+    color: blue;
+}
+
+.latinosList
+{
+    margin-left: 3%;
+    color: black;
+    list-style: lower-latin;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: normal;
+    line-height: 30px;
+    margin-left: 45px;
+}
+
+
+.yellowRoundList
+{
+    list-style-image: url(image/baby-face-outline.png);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: normal;
+    line-height: 35px;
+    margin-left: 45px;
+
+}
+
+.redRoundList
+{
+    list-style-image: url(image/android.png);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: normal;
+    line-height: 35px;
+    margin-left: 45px;
+
+}
+
+.checkboxList
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: normal;
+    line-height: 35px;
+    margin-left: 45px;
+    list-style-image: url(image/checkbox-outline.png);
+
+}
+
+
+.lastPodList
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: normal;
+    line-height: 35px;
+    margin-left: 45px;
+    list-style-image: url(image/close-octagon-outline.png);
+}
